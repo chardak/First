@@ -1,0 +1,6 @@
+D:\Git\First\HelloCsharpHomework\ThisIsMyFirstProject\bin\Debug\ThisIsMyFirstProject.exe.config
+D:\Git\First\HelloCsharpHomework\ThisIsMyFirstProject\obj\Debug\ThisIsMyFirstProject.csprojResolveAssemblyReference.cache
+D:\Git\First\HelloCsharpHomework\ThisIsMyFirstProject\bin\Debug\ThisIsMyFirstProject.exe
+D:\Git\First\HelloCsharpHomework\ThisIsMyFirstProject\bin\Debug\ThisIsMyFirstProject.pdb
+D:\Git\First\HelloCsharpHomework\ThisIsMyFirstProject\obj\Debug\ThisIsMyFirstProject.exe
+D:\Git\First\HelloCsharpHomework\ThisIsMyFirstProject\obj\Debug\ThisIsMyFirstProject.pdb

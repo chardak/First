@@ -1,0 +1,5 @@
+D:\Git\First\HelloCsharpHomework\ThisIsMySecondProject\bin\Debug\ThisIsMySecondProject.exe.config
+D:\Git\First\HelloCsharpHomework\ThisIsMySecondProject\bin\Debug\ThisIsMySecondProject.exe
+D:\Git\First\HelloCsharpHomework\ThisIsMySecondProject\bin\Debug\ThisIsMySecondProject.pdb
+D:\Git\First\HelloCsharpHomework\ThisIsMySecondProject\obj\Debug\ThisIsMySecondProject.exe
+D:\Git\First\HelloCsharpHomework\ThisIsMySecondProject\obj\Debug\ThisIsMySecondProject.pdb
