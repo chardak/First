@@ -3,3 +3,6 @@ D:\Git\Homework_5\Homework_5\7\bin\Debug\7.exe
 D:\Git\Homework_5\Homework_5\7\bin\Debug\7.pdb
 D:\Git\Homework_5\Homework_5\7\obj\Debug\7.exe
 D:\Git\Homework_5\Homework_5\7\obj\Debug\7.pdb
+D:\Git\First\Homework_5\7\bin\Debug\7.exe.config
+D:\Git\First\Homework_5\7\obj\Debug\7.exe
+D:\Git\First\Homework_5\7\obj\Debug\7.pdb

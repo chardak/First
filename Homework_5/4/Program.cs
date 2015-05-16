@@ -10,18 +10,25 @@ namespace _4
     {
         static void Main(string[] args)
         {
-            int[] myArray = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+            Console.Write("Please enter the Array length: ");
+            int[] myArray = new int [int.Parse(Console.ReadLine())];
 
-            Console.Write("Please enter number between 0 and 9: ");
-            int n = int.Parse(Console.ReadLine());
+            for (int i = 0; i < myArray.Length; i++)
+            {
+                Console.Write("Please enter number " + (i + 1) + ": ");
+                myArray[i] = int.Parse(Console.ReadLine());
+            }
 
             Console.WriteLine();
+            Console.WriteLine("Please enter which number you are looking for: ");
 
-            for (int i = 0; i <= n; i++)
+            int n = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i <= myArray.Length; i++)
             {
                 if (i == n)
                 {
-                    Console.WriteLine("The index of the number is: " + i);
+                    Console.WriteLine("The index of the number is: " + (i-1));
                 }
             }
             Console.ReadKey();
