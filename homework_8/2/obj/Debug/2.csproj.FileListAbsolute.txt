@@ -1,0 +1,6 @@
+D:\Git\Homework_8\homework_8\2\bin\Debug\2.exe.config
+D:\Git\Homework_8\homework_8\2\bin\Debug\2.exe
+D:\Git\Homework_8\homework_8\2\bin\Debug\2.pdb
+D:\Git\Homework_8\homework_8\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+D:\Git\Homework_8\homework_8\2\obj\Debug\2.exe
+D:\Git\Homework_8\homework_8\2\obj\Debug\2.pdb

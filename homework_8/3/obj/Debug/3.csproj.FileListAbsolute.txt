@@ -1,0 +1,5 @@
+D:\Git\Homework_8\homework_8\3\bin\Debug\3.exe.config
+D:\Git\Homework_8\homework_8\3\bin\Debug\3.exe
+D:\Git\Homework_8\homework_8\3\bin\Debug\3.pdb
+D:\Git\Homework_8\homework_8\3\obj\Debug\3.exe
+D:\Git\Homework_8\homework_8\3\obj\Debug\3.pdb
